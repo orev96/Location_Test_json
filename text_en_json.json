@@ -1,0 +1,21 @@
+
+{
+    "items":
+    [
+        {  
+            "key":"SCENE_1",
+            "value":"New test code001"
+        },
+
+        {  
+            "key":"SCENE_2",
+            "value":"New test code002"
+        },
+
+        {  
+            "key":"SCENE_3",
+            "value":"New test code003"
+        }
+
+    ]
+}
